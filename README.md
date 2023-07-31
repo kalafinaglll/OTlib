@@ -1,2 +1,2 @@
 # OTlib
-practiseSimpleOTandOTE
+practiceSimpleOTandOTE
